@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **[`Muhammed Ajas K`](https://www.linkedin.com/in/muhammedajaz/)**, a Certified Soc Analyst, Bug Hunter, and Security Researcher.with expertise in detecting, analyzing, and responding to cybersecurity threats. Skilled in threat intelligence, SIEM tools, incident response, and vulnerability management. Passionate about improving organizational security posture and staying ahead of emerging cyber threats.
+I'm **[`Muhammed Ajas K`](https://www.linkedin.com/in/muhammedajaz/)**, a Certified Soc Analyst, Bug Hunter, and Security Researcher with expertise in detecting, analyzing, and responding to cybersecurity threats. Skilled in threat intelligence, SIEM tools, incident response, and vulnerability management. Passionate about improving organizational security posture and staying ahead of emerging cyber threats.
 
 <a href="https://linkedin.com/in/muhammedajaz"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
